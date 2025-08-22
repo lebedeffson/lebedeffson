@@ -24,9 +24,9 @@
 
 ## 📊 GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chui1281&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebedeffson&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chui1281&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lebedeffson&layout=compact&theme=radical)
 
 ## 🔬 Исследовательская деятельность
 - 🧮 **ANFIS Research** - исследование нейро-нечётких систем и их применения
@@ -40,12 +40,12 @@
 ## 📫 Связь со мной
 
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1046-5982)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Chui1281)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/lebedeffson)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lebedev0lexander@gmail.com)
 
 ## 📈 Активность
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chui1281&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&theme=github-compact)
 
 ---
 ⭐️ **"Искусственный интеллект должен быть не только умным, но и понятным"**
