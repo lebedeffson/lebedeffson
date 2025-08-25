@@ -1,51 +1,66 @@
-# 👋 Привет! Меня зовут Саша Лебедев
+# 👋 Hi there! I'm Alex Lebedev
 
-## 🚀 О себе
-Студент 2 курса направления **"Информатика и вычислительная техника"** в Университете "Дубна". Увлекаюсь разработкой систем искусственного интеллекта с фокусом на:
+## 🚀 About Me
+
+2nd year student of **"Computer Science and Engineering"** at "Dubna" University. Passionate about developing artificial intelligence systems with focus on:
+
 - 🧠 **Machine Learning**
 - 🔬 **Explainable AI**
 
-## 🛠️ Технический стек
 
-### Языки программирования:
+## 🛠️ Tech Stack
+
+### Programming Languages:
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-### ML/AI фреймворки:
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+### Data Science & ML:
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
 
-### Фреймворки и технологии:
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Avalonia](https://img.shields.io/badge/-Avalonia-B445E5?style=flat-square)
-![Yandex.Dialogs](https://img.shields.io/badge/-Yandex.Dialogs-FF0000?style=flat-square&logo=yandex&logoColor=white)
+### Explainable AI:
+![SHAP](https://img.shields.io/badge/-SHAP-FF6B6B?style=flat-square)
+![LIME](https://img.shields.io/badge/-LIME-4ECDC4?style=flat-square)
+![Captum](https://img.shields.io/badge/-Captum-EE4C2C?style=flat-square)
 
-## 📊 GitHub статистика
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebedeffson&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lebedeffson&layout=compact&theme=radical)
 
-## 🔬 Исследовательская деятельность
-- 🧮 **ANFIS Research** - исследование нейро-нечётких систем и их применения
-- 📊 **Explainable AI** - работа над методами интерпретации решений ML-моделей
-- 📄 **Trust-ADE Protocol** - разработка протокола комплексной оценки доверия к ИИ системам
+## 🔬 Research Activities
 
-## 🎓 Образование
-- **Бакалавр** по направлению "Информатика и вычислительная техника" - Университет "Дубна" (2024-2028)
+- 🧮 **ANFIS Research** - investigating neuro-fuzzy systems and their applications
+- 📊 **Explainable AI** - working on methods for interpreting ML model decisions
+- 📄 **Trust-ADE Protocol** - developing comprehensive trust assessment protocol for AI systems
+
+## 🎓 Education
+
+- **Bachelor's Degree** in "Computer Science and Engineering" - "Dubna" University (2024-2028)
 - **ORCID**: [0009-0001-1046-5982](https://orcid.org/0009-0001-1046-5982)
 
-## 📫 Связь со мной
+## 📫 Connect with Me
 
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1046-5982)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/lebedeffson)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lebedev0lexander@gmail.com)
 
-## 📈 Активность
+## 📈 Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&theme=github-compact)
 
----
-⭐️ **"Искусственный интеллект должен быть не только умным, но и понятным"**
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lebedeffson&theme=radical)](https://git.io/streak-stats)
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🌱 Currently Learning
+- Advanced Deep Learning architectures
+- Causal AI and causal inference
+- Neurosymbolic AI systems
