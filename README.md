@@ -56,10 +56,6 @@
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lebedeffson&theme=radical)](https://git.io/streak-stats)
 
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 🌱 Currently Learning
 - Advanced Deep Learning architectures
 - Causal AI and causal inference
