@@ -83,6 +83,13 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&theme=github-compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true">
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true">
+</picture>
+
+
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lebedeffson&theme=radical)](https://git.io/streak-stats)
 
