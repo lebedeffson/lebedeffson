@@ -43,10 +43,18 @@ I am developing the **Trust-ADE Protocol**, a framework for assessing AI systems
 
 <div align="center">
 
-### Programming Languages
+<br/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lebedeffson&theme=radical" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lebedeffson&theme=radical" alt="Most Commit Language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lebedeffson&theme=radical&utcOffset=3" alt="Productive Time" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebedeffson&theme=radical" alt="GitHub Profile Summary" />
+
+</div>
 
 ### Machine Learning & Data Science
 
@@ -100,16 +108,6 @@ I am developing the **Trust-ADE Protocol**, a framework for assessing AI systems
 **Dubna University**  
 Bachelor's Degree in **Computer Science and Engineering**  
 2024–2028
-
-<div align="center">
-
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebedeffson&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lebedeffson&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=lebedeffson&theme=radical)
-
-</div>
 
 ### Building transparent, interpretable, and trustworthy AI systems.
 
