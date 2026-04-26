@@ -16,7 +16,11 @@ I'm a 2nd-year **Computer Science and Engineering** student at **Dubna Universit
 
 I am interested in creating AI systems that are not only accurate, but also **interpretable, transparent, and trustworthy**.
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true">
+</picture>
 
 ## Research Focus
 
@@ -96,22 +100,6 @@ I am developing the **Trust-ADE Protocol**, a framework for assessing AI systems
 **Dubna University**  
 Bachelor's Degree in **Computer Science and Engineering**  
 2024–2028
-
-**ORCID:** [0009-0001-1046-5982](https://orcid.org/0009-0001-1046-5982)
-
----
-
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true">
-</picture>
-
----
-
-## GitHub Statistics
 
 <div align="center">
 
