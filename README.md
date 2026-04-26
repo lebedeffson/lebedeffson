@@ -2,33 +2,19 @@
 
 # Hi there, I'm Alex Lebedev 👋
 
-### Machine Learning · Explainable AI · Neuro-Fuzzy Systems · Trustworthy AI
-
-I'm a 2nd-year **Computer Science and Engineering** student at **Dubna University**, focused on developing interpretable and reliable artificial intelligence systems.
-
-My main research interests include **Machine Learning**, **Explainable AI**, **Adaptive Neuro-Fuzzy Inference Systems**, and methods for building trustworthy AI.
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Machine+Learning+%7C+Explainable+AI;ANFIS+%7C+Neuro-Fuzzy+Systems;Building+Trustworthy+AI;Researching+Transparent+AI+Systems&center=true&width=800&height=45)](https://git.io/typing-svg)
+
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1046-5982)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lebedeffson)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lebedev0lexander@gmail.com)
 
 </div>
 
----
-
 ## About Me
 
+I'm a 2nd-year **Computer Science and Engineering** student at **Dubna University**, focused on developing interpretable and reliable artificial intelligence systems.
+
 I am interested in creating AI systems that are not only accurate, but also **interpretable, transparent, and trustworthy**.
-
-My work and learning are focused on the intersection of:
-
-- Machine Learning
-- Explainable AI
-- Neuro-Fuzzy Systems
-- Adaptive Neuro-Fuzzy Inference Systems
-- Trustworthy AI
-- Causal AI
-- Neurosymbolic AI
-
-I am especially interested in combining neural learning, fuzzy logic, and explainability methods to make AI models easier to understand and evaluate.
 
 ---
 
@@ -105,18 +91,6 @@ I am developing the **Trust-ADE Protocol**, a framework for assessing AI systems
 
 </div>
 
----
-
-## Current Research Activities
-
-- Researching **ANFIS** and neuro-fuzzy models
-- Studying methods for **explainable and interpretable machine learning**
-- Developing the **Trust-ADE Protocol** for AI trust assessment
-- Exploring **causal AI** and **neurosymbolic AI**
-- Building a strong foundation in deep learning and model evaluation
-
----
-
 ## Education
 
 **Dubna University**  
@@ -148,32 +122,6 @@ Bachelor's Degree in **Computer Science and Engineering**
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lebedeffson&theme=radical)
 
 </div>
-
----
-
-## Currently Learning
-
-- Advanced deep learning architectures
-- Causal inference and causal machine learning
-- Neurosymbolic AI systems
-- Explainable and interpretable ML methods
-- Trust assessment methods for AI systems
-
----
-
-## Connect with Me
-
-<div align="center">
-
-[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1046-5982)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lebedeffson)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lebedev0lexander@gmail.com)
-
-</div>
-
----
-
-<div align="center">
 
 ### Building transparent, interpretable, and trustworthy AI systems.
 
