@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Machine+Learning+%7C+Explainable+AI;ANFIS+%7C+Neuro-Fuzzy+Systems;Building+Trustworthy+AI;Researching+Transparent+AI+Systems&center=true&width=800&height=45)](https://git.io/typing-svg)
 
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1046-5982)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lebedeffson)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jkRWQbgAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Alexander-Lebedev-20?ev=hdr_xprf)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lebedev0lexander@gmail.com)
 
 </div>
