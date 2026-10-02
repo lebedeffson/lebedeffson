@@ -1,7 +1,13 @@
 <div align="center">
 
 # Alexander D. Lebedev
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=ML+Specialist;Explainable+AI;ANFIS+%7C+Neuro-Fuzzy+Systems;Building+Trustworthy+AI;AI+Researcher;ACM+Certified+Reviewer&center=true&width=800&height=45)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=45&lines=AI+%2F+ML+Researcher;Explainable+%26+Trustworthy+AI;Neuro-Fuzzy+Systems;Research+Software+Engineering;Agentic+R%26D)](https://git.io/typing-svg)
+
+**ML Specialist / Developer · Artificial Intelligence Laboratory · Dubna State University**  
+**Computer Science & Engineering · ACM Certified Reviewer**
+
+<br>
 
 <a href="https://orcid.org/0009-0001-1046-5982">
   <img src="https://img.shields.io/badge/ORCID-0009--0001--1046--5982-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
@@ -18,12 +24,11 @@
 
 <br><br>
 
+<code>research question → architecture → agents → experiments → evidence → publication</code>
 
 </div>
 
 <div align="center">
-
-### Contribution City
 
 <a href="https://gitcity.natrajx.in/lebedeffson">
   <img
@@ -37,44 +42,37 @@
 
 </div>
 
-## Research
+---
 
-I work on **interpretable and trustworthy artificial intelligence**, with a particular focus on neuro-fuzzy models, explanation quality, robustness, reproducibility and scientific evaluation.
+# `01 // RESEARCH`
 
-My research combines **model development**, **experimental validation** and **research software engineering**.
+I build **interpretable and trustworthy AI systems**, combining model development, experimental validation and research software engineering.
+
+My main interests are **Explainable AI, neuro-fuzzy systems, structural interpretability, robustness, reproducibility and AI evaluation**.
 
 ```mermaid
-flowchart TB
+flowchart LR
 
     R["AI Research"]
 
     X["Explainable &<br/>Trustworthy AI"]
     N["Neuro-Fuzzy &<br/>Interpretable Models"]
-    E["Evaluation &<br/>Robustness"]
-    A["Agentic Research<br/>Engineering"]
+    V["Evaluation &<br/>Robustness"]
+    E["Research<br/>Engineering"]
 
     R --> X
     R --> N
+    R --> V
     R --> E
-    R --> A
 
-    X --> T["Trust-ADE"]
-    X --> V["Verified<br/>Explainability Core"]
-
-    N --> F["Fuzzy Attention<br/>Networks"]
-    N --> K["Routed KAFN"]
-
-    E --> B["BeaconXAI"]
-    E --> L["ANZA-LIRA"]
-
-    A --> S["Specification"]
-    A --> G["Agents"]
-    A --> Q["Validation"]
+    style R fill:#111827,stroke:#00F5FF,stroke-width:2px
+    style X fill:#111827,stroke:#FF2BD6
+    style N fill:#111827,stroke:#7B2CFF
+    style V fill:#111827,stroke:#00F5FF
+    style E fill:#111827,stroke:#FF2BD6
 ```
 
----
-
-# Research Systems
+# `02 // RESEARCH SYSTEMS`
 
 <table>
 <tr>
@@ -85,11 +83,11 @@ flowchart TB
 
 **Trust Assessment through Dynamic Explainability**
 
-Protocol-oriented assessment of AI systems through explanation quality, robustness, concept drift and bias shift.
+Quantitative assessment of AI systems through explanation quality, robustness, concept drift and bias shift.
 
 `Trustworthy AI` `XAI` `Evaluation`
 
-<a href="https://github.com/fims9000/Trust-ADE"><b>Code ↗</b></a>
+<a href="https://github.com/fims9000/Trust-ADE"><b>CODE ↗</b></a>
 
 </td>
 
@@ -97,11 +95,11 @@ Protocol-oriented assessment of AI systems through explanation quality, robustne
 
 ### Verified Explainability Core
 
-Hybrid **GD-ANFIS / SHAP** architecture exploring explainability as part of the learning and validation process.
+Hybrid **GD-ANFIS / SHAP** architecture integrating explainability with model training and validation.
 
 `ANFIS` `SHAP` `XAI 2.0`
 
-<a href="https://github.com/fims9000/XAI-2.0-SHAP-regularized-ANFIS"><b>Code ↗</b></a>
+<a href="https://github.com/fims9000/XAI-2.0-SHAP-regularized-ANFIS"><b>CODE ↗</b></a>
 
 </td>
 
@@ -113,13 +111,13 @@ Hybrid **GD-ANFIS / SHAP** architecture exploring explainability as part of the 
 
 ### Fuzzy Attention Networks
 
-Differentiable fuzzy attention for multimodal learning with intrinsic mechanisms for interpretable reasoning.
+Differentiable fuzzy attention for multimodal learning with interpretable reasoning mechanisms.
 
 `Fuzzy Attention` `Multimodal AI` `PyTorch`
 
-<a href="https://github.com/fims9000/FuzzyAttentionNetworks"><b>Code ↗</b></a>
+<a href="https://github.com/fims9000/FuzzyAttentionNetworks"><b>CODE ↗</b></a>
 &nbsp;·&nbsp;
-<a href="https://doi.org/10.36871/2618-9976.2025.11.003"><b>Paper ↗</b></a>
+<a href="https://doi.org/10.36871/2618-9976.2025.11.003"><b>PAPER ↗</b></a>
 
 </td>
 
@@ -127,11 +125,11 @@ Differentiable fuzzy attention for multimodal learning with intrinsic mechanisms
 
 ### Deep Neuro-Fuzzy / Routed KAFN
 
-Research framework for deep neuro-fuzzy models and Routed Kolmogorov-Arnold Fuzzy Networks with structural interpretability and stability analysis.
+Deep neuro-fuzzy models and Routed Kolmogorov-Arnold Fuzzy Networks with structural interpretability and stability analysis.
 
 `KAFN` `Neuro-Fuzzy` `Interpretability`
 
-<a href="https://github.com/fims9000/deep-neuro-fuzzy"><b>Code ↗</b></a>
+<a href="https://github.com/fims9000/deep-neuro-fuzzy"><b>CODE ↗</b></a>
 
 </td>
 
@@ -143,13 +141,13 @@ Research framework for deep neuro-fuzzy models and Routed Kolmogorov-Arnold Fuzz
 
 ### KAN-XAI 2.0
 
-Hybrid and hierarchical explainable architectures based on Kolmogorov-Arnold Networks, fuzzy components and interpretable decision mechanisms.
+Hybrid explainable architectures combining Kolmogorov-Arnold Networks, fuzzy systems and interpretable decision mechanisms.
 
 `KAN` `Hybrid AI` `XAI`
 
-<a href="https://github.com/fims9000/KAN-XAI-2.0-System"><b>Code ↗</b></a>
+<a href="https://github.com/fims9000/KAN-XAI-2.0-System"><b>CODE ↗</b></a>
 &nbsp;·&nbsp;
-<a href="https://doi.org/10.1007/978-3-032-13612-1_4"><b>Paper ↗</b></a>
+<a href="https://doi.org/10.1007/978-3-032-13612-1_4"><b>PAPER ↗</b></a>
 
 </td>
 
@@ -157,11 +155,11 @@ Hybrid and hierarchical explainable architectures based on Kolmogorov-Arnold Net
 
 ### ANZA-LIRA
 
-Scientific vision pipeline for segmentation and structural continuation of thin seismic faults using anisotropic geometry, topology and graph reasoning.
+Scientific vision pipeline for seismic fault segmentation using anisotropic geometry, topology and graph reasoning.
 
 `Computer Vision` `Topology` `Scientific ML`
 
-<a href="https://github.com/fims9000/anza_lira"><b>Code ↗</b></a>
+<a href="https://github.com/fims9000/anza_lira"><b>CODE ↗</b></a>
 
 </td>
 
@@ -176,33 +174,25 @@ Scientific vision pipeline for segmentation and structural continuation of thin 
 
 ### BeaconXAI
 
-Budgeted counter-evidence auditing for black-box time-series models with adaptive evaluation budgets and edge-oriented analysis.
+Budgeted counter-evidence auditing for black-box time-series models with adaptive evaluation budgets.
 
-<a href="https://github.com/fims9000/BeaconXAI">Code ↗</a>
-
-<br>
+<a href="https://github.com/fims9000/BeaconXAI"><b>CODE ↗</b></a>
 
 ### SynergiXAI
 
-Architecture for reproducible lifecycle management and evaluation of explainable AI models.
+Reproducible lifecycle management and evaluation of explainable AI models.
 
-`Reproducibility · AutoXAI · Model lifecycle`
-
-<br>
+`AutoXAI` `Reproducibility` `Model lifecycle`
 
 ### NeuroFuzzy Master
 
-Desktop research environment for ANFIS data analysis, model training and visualization.
+Desktop research environment for ANFIS analysis, training and visualization.
 
-`ANFIS · Desktop ML · Research tooling`
+`ANFIS` `Desktop ML` `Research tooling`
 
 </details>
 
----
-
-# Selected Publications
-
-<!-- PUBLICATIONS:START -->
+# `03 // SELECTED PUBLICATIONS`
 
 ### 2026
 
@@ -220,13 +210,6 @@ Desktop research environment for ANFIS data analysis, model training and visuali
 **SynergiXAI Platform Architectural Model for Reproducible Lifecycle Management of Artificial Intelligence Models**  
 *Soft Measurements and Computing*, No. 3-2, 101–119.
 
-<br>
-
-**Algebraic Operations on Multilevel Explanations and Quantification of Their Uncertainty**  
-*Soft Measurements and Computing*, No. 2-2, 64–99.
-
----
-
 ### 2025
 
 **A Fuzzy Transformer for Multimodal AI: Differentiable Fuzzy Attention and Adaptive Explanations**  
@@ -238,44 +221,26 @@ Desktop research environment for ANFIS data analysis, model training and visuali
 **HYBRID-XIRIS: Neuro-Fuzzy Architecture for Explainable Biometric Identification by Iris**  
 *Soft Measurements and Computing*, No. 12-2, 119–132.
 
----
-
 ### Accepted / Forthcoming
 
-**Routed Kolmogorov–Arnold Fuzzy Networks for Stable Interpretable Prediction**  
+**Routed Kolmogorov-Arnold Fuzzy Networks for Stable Interpretable Prediction**  
 IITI'26 · Springer Proceedings
 
 **Concept-Latent Space Alignment in Fuzzy Attention Networks for Safety-Critical Intelligent Decision Support**  
 IITI'26 · Springer Proceedings
 
-<!-- PUBLICATIONS:END -->
+# `04 // AGENTIC RESEARCH ENGINEERING`
 
-<div align="center">
+AI coding agents are a **primary implementation interface** in my workflow.
 
-### Complete research record
-
-<a href="https://orcid.org/0009-0001-1046-5982">ORCID</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=jkRWQbgAAAAJ">Google Scholar</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.researchgate.net/profile/Alexander-Lebedev-20">ResearchGate</a>
-
-</div>
-
----
-
-# Agentic Research Engineering
-
-AI coding agents are a **primary implementation interface** in my development workflow.
-
-I focus on the parts that determine whether the resulting system is actually useful scientifically: problem formulation, architecture, constraints, experimental design, evaluation and acceptance.
+I define the problem, system architecture, constraints and evaluation protocol. Agents accelerate implementation and experimentation; results are accepted only after testing and evidence-based validation.
 
 ```mermaid
 flowchart LR
 
     Q["Research<br/>Question"]
-    S["Specification<br/>& Constraints"]
-    O["Agent<br/>Orchestration"]
+    S["Architecture &<br/>Specification"]
+    A["Agent<br/>Orchestration"]
 
     C["Implementation"]
     E["Experiments"]
@@ -283,14 +248,15 @@ flowchart LR
     T["Tests"]
     M["Metrics &<br/>Evidence"]
 
-    H["Human<br/>Review"]
+    H["Human<br/>Validation"]
+
     R["Research<br/>Artifact"]
 
     Q --> S
-    S --> O
+    S --> A
 
-    O --> C
-    O --> E
+    A --> C
+    A --> E
 
     C --> T
     E --> M
@@ -298,39 +264,20 @@ flowchart LR
     T --> H
     M --> H
 
-    H -->|"accept"| R
     H -->|"refine"| S
+    H -->|"accept"| R
+
+    style A fill:#111827,stroke:#FF2BD6,stroke-width:2px
+    style H fill:#111827,stroke:#00F5FF,stroke-width:2px
+    style Q fill:#111827,stroke:#7B2CFF
+    style R fill:#111827,stroke:#00F5FF
 ```
 
-### The control loop
+> **Agents accelerate implementation. Evidence decides what survives.**
 
-```text
-define the problem
-      ↓
-design the system
-      ↓
-specify constraints
-      ↓
-direct coding / research agents
-      ↓
-run experiments
-      ↓
-inspect failures and evidence
-      ↓
-validate claims
-      ↓
-iterate
-```
-
-> **Agents accelerate implementation. Evidence decides whether the result survives.**
-
----
-
-# Research Toolkit
+# `05 // ENGINEERING STACK`
 
 <div align="center">
-
-### Core engineering
 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,postgres,docker,git,github,linux,bash,dotnet,vscode&perline=13" />
@@ -341,10 +288,12 @@ iterate
 <br>
 
 <table>
+
 <tr>
+
 <td width="33%" valign="top">
 
-### ML / Scientific Computing
+### AI / ML
 
 `PyTorch`  
 `TensorFlow`  
@@ -359,41 +308,41 @@ iterate
 
 <td width="33%" valign="top">
 
-### Explainability
+### XAI / Neuro-Fuzzy
 
 `SHAP`  
 `LIME`  
 `Captum`  
-`DALEX`  
-`Alibi`  
-`InterpretML`  
-`Concept-based XAI`  
-`Explanation evaluation`
+`ANFIS`  
+`xanfis`  
+`scikit-fuzzy`  
+`KAN / KAFN`  
+`Fuzzy Attention`
 
 </td>
 
 <td width="33%" valign="top">
 
-### Neuro-Fuzzy
+### Systems / Infra
 
-`ANFIS`  
-`xanfis`  
-`scikit-fuzzy`  
-`Fuzzy Attention`  
-`KAFN`  
-`KAN`  
-`Fuzzy rules`  
-`Hybrid models`
+`FastAPI / REST`  
+`PostgreSQL`  
+`Docker / Podman`  
+`Linux`  
+`Git / GitHub`  
+`Bash`  
+`Ollama / Local LLMs`  
+`Agent workflows`
 
 </td>
+
 </tr>
+
 </table>
 
-I am particularly interested in:
+---
 
-`faithfulness` · `stability` · `robustness` · `uncertainty` · `calibration` · `data leakage` · `external validity` · `reproducibility`
-
-# GitHub Activity
+# `06 // GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -403,67 +352,51 @@ I am particularly interested in:
   alt="GitHub Profile Details"
 />
 
-<br/>
+<br>
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lebedeffson&theme=2077"
-  width="32%"
+  width="48%"
   alt="GitHub Stats"
 />
 
 <img
+  src="https://streak-stats.demolab.com?user=lebedeffson&theme=radical&hide_border=true&background=0D1117"
+  width="48%"
+  alt="GitHub Streak"
+/>
+
+<br>
+
+<img
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lebedeffson&theme=2077&utcOffset=3"
-  width="32%"
+  width="48%"
   alt="Productive Time"
 />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebedeffson&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
-  width="48%"
-  alt="Top Languages"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lebedeffson&theme=radical" alt="Repos per Language" />
 
 </div>
 
-<br/>
+<br>
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=00f5ff&title_color=ff2bd6&line=00f5ff&point=ff2bd6&area_color=7b2cff&area=true&hide_border=true&radius=8&custom_title=ACTIVITY%20SIGNAL">
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=c9d1d9&title_color=00f5ff&line=00f5ff&point=ff2bd6&area_color=7b2cff&area=true&hide_border=true&radius=8">
 
   <img
     width="100%"
-    alt="GitHub Activity Signal"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=00f5ff&title_color=ff2bd6&line=00f5ff&point=ff2bd6&area_color=7b2cff&area=true&hide_border=true&radius=8&custom_title=ACTIVITY%20SIGNAL">
+    alt="GitHub contribution activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=c9d1d9&title_color=00f5ff&line=00f5ff&point=ff2bd6&area_color=7b2cff&area=true&hide_border=true&radius=8">
+
 </picture>
 
-# Research & Academic Profile
+<div align="center">
 
-<table>
-<tr>
-<td>
+### `BUILD // TEST // EXPLAIN // VERIFY`
 
-**ML Specialist / Developer**  
+**AI systems should not only produce answers — they should survive inspection.**
 
-Artificial Intelligence Laboratory  
-Dubna State University
-
-</td>
-<td>
-
-**Computer Science and Engineering**  
-
-B.Sc. · 2024–2028  
-Dubna State University
-
-</td>
-<td>
-
-**ACM Certified Reviewer**  
-
-2026
-
-</td>
-</tr>
-</table>
+</div>
