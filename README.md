@@ -21,7 +21,21 @@
 
 </div>
 
----
+<div align="center">
+
+### Contribution City
+
+<a href="https://gitcity.natrajx.in/lebedeffson">
+  <img
+    src="https://gitcity.natrajx.in/api/svg?u=lebedeffson&theme=aurora"
+    width="100%"
+    alt="GitHub Contribution City"
+  />
+</a>
+
+<sub>365 days of building, experimenting and shipping.</sub>
+
+</div>
 
 ## Research
 
@@ -375,56 +389,54 @@ iterate
 </tr>
 </table>
 
----
-
-# Evaluation Mindset
-
-My work is strongly oriented toward **claim–evidence alignment**.
-
-```text
-             MODEL QUALITY
-                   │
-        ┌──────────┼──────────┐
-        │          │          │
-        ▼          ▼          ▼
-    Accuracy   Robustness   Explanation
-                               Quality
-        │          │          │
-        └──────────┼──────────┘
-                   ▼
-              VALIDATION
-                   │
-     ┌─────────────┼─────────────┐
-     ▼             ▼             ▼
-  Baselines     Ablations    Reproducibility
-     │             │             │
-     └─────────────┴─────────────┘
-                   │
-                   ▼
-                CLAIMS
-```
-
 I am particularly interested in:
 
 `faithfulness` · `stability` · `robustness` · `uncertainty` · `calibration` · `data leakage` · `external validity` · `reproducibility`
 
----
-
 # GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebedeffson&theme=2077"
+  width="100%"
+  alt="GitHub Profile Details"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lebedeffson&theme=2077"
+  width="32%"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lebedeffson&theme=2077&utcOffset=3"
+  width="32%"
+  alt="Productive Time"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebedeffson&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
+  width="48%"
+  alt="Top Languages"
+/>
+
+</div>
+
+<br/>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=ffffff&color=24292f&line=0969da&point=8250df&area=true&hide_border=true">
-  <img
-    alt="GitHub activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true">
-</picture>
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=00f5ff&title_color=ff2bd6&line=00f5ff&point=ff2bd6&area_color=7b2cff&area=true&hide_border=true&radius=8&custom_title=ACTIVITY%20SIGNAL">
 
----
+  <img
+    width="100%"
+    alt="GitHub Activity Signal"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=00f5ff&title_color=ff2bd6&line=00f5ff&point=ff2bd6&area_color=7b2cff&area=true&hide_border=true&radius=8&custom_title=ACTIVITY%20SIGNAL">
+</picture>
 
 # Research & Academic Profile
 
@@ -433,6 +445,7 @@ I am particularly interested in:
 <td>
 
 **ML Specialist / Developer**  
+
 Artificial Intelligence Laboratory  
 Dubna State University
 
@@ -440,6 +453,7 @@ Dubna State University
 <td>
 
 **Computer Science and Engineering**  
+
 B.Sc. · 2024–2028  
 Dubna State University
 
@@ -447,17 +461,9 @@ Dubna State University
 <td>
 
 **ACM Certified Reviewer**  
+
 2026
 
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### BUILD · TEST · EXPLAIN · VERIFY
-
-**Building AI systems whose decisions can be examined, tested and challenged.**
-</div>
