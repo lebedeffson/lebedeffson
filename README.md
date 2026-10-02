@@ -1,115 +1,463 @@
 <div align="center">
 
-# Hi there, I'm Alex Lebedev 👋
+# Alexander D. Lebedev
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=ML+Specialist;Explainable+AI;ANFIS+%7C+Neuro-Fuzzy+Systems;Building+Trustworthy+AI;AI+Researcher;ACM+Certified+Reviewer&center=true&width=800&height=45)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Machine+Learning+%7C+Explainable+AI;ANFIS+%7C+Neuro-Fuzzy+Systems;Building+Trustworthy+AI;Researching+Transparent+AI+Systems&center=true&width=800&height=45)](https://git.io/typing-svg)
+<a href="https://orcid.org/0009-0001-1046-5982">
+  <img src="https://img.shields.io/badge/ORCID-0009--0001--1046--5982-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+<a href="https://scholar.google.com/citations?user=jkRWQbgAAAAJ">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+<a href="https://www.researchgate.net/profile/Alexander-Lebedev-20">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+</a>
+<a href="mailto:lebedev0lexander@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1046-5982)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jkRWQbgAAAAJ)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Alexander-Lebedev-20?ev=hdr_xprf)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lebedev0lexander@gmail.com)
+<br><br>
+
 
 </div>
-
-## About Me
-
-I'm a 2nd-year **Computer Science and Engineering** student at **Dubna University**, focused on developing interpretable and reliable artificial intelligence systems.
-
-I am interested in creating AI systems that are not only accurate, but also **interpretable, transparent, and trustworthy**.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true">
-</picture>
-
-## Research Focus
-
-### Explainable AI
-
-I explore methods that help understand machine learning models, including local and global explanations, feature attribution, decision transparency, and model interpretability.
-
-### ANFIS & Neuro-Fuzzy Systems
-
-I am researching **Adaptive Neuro-Fuzzy Inference Systems** and their applications in interpretable machine learning.  
-My goal is to study how fuzzy logic and neural networks can be combined to build models that are both powerful and understandable.
-
-### Trustworthy AI
-
-I am developing the **Trust-ADE Protocol**, a framework for assessing AI systems through explainability, robustness, reliability, and decision transparency.
 
 ---
 
-## Tech Stack
+## Research
+
+I work on **interpretable and trustworthy artificial intelligence**, with a particular focus on neuro-fuzzy models, explanation quality, robustness, reproducibility and scientific evaluation.
+
+My research combines **model development**, **experimental validation** and **research software engineering**.
+
+```mermaid
+flowchart TB
+
+    R["AI Research"]
+
+    X["Explainable &<br/>Trustworthy AI"]
+    N["Neuro-Fuzzy &<br/>Interpretable Models"]
+    E["Evaluation &<br/>Robustness"]
+    A["Agentic Research<br/>Engineering"]
+
+    R --> X
+    R --> N
+    R --> E
+    R --> A
+
+    X --> T["Trust-ADE"]
+    X --> V["Verified<br/>Explainability Core"]
+
+    N --> F["Fuzzy Attention<br/>Networks"]
+    N --> K["Routed KAFN"]
+
+    E --> B["BeaconXAI"]
+    E --> L["ANZA-LIRA"]
+
+    A --> S["Specification"]
+    A --> G["Agents"]
+    A --> Q["Validation"]
+```
+
+---
+
+# Research Systems
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Trust-ADE
+
+**Trust Assessment through Dynamic Explainability**
+
+Protocol-oriented assessment of AI systems through explanation quality, robustness, concept drift and bias shift.
+
+`Trustworthy AI` `XAI` `Evaluation`
+
+<a href="https://github.com/fims9000/Trust-ADE"><b>Code ↗</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Verified Explainability Core
+
+Hybrid **GD-ANFIS / SHAP** architecture exploring explainability as part of the learning and validation process.
+
+`ANFIS` `SHAP` `XAI 2.0`
+
+<a href="https://github.com/fims9000/XAI-2.0-SHAP-regularized-ANFIS"><b>Code ↗</b></a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Fuzzy Attention Networks
+
+Differentiable fuzzy attention for multimodal learning with intrinsic mechanisms for interpretable reasoning.
+
+`Fuzzy Attention` `Multimodal AI` `PyTorch`
+
+<a href="https://github.com/fims9000/FuzzyAttentionNetworks"><b>Code ↗</b></a>
+&nbsp;·&nbsp;
+<a href="https://doi.org/10.36871/2618-9976.2025.11.003"><b>Paper ↗</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Deep Neuro-Fuzzy / Routed KAFN
+
+Research framework for deep neuro-fuzzy models and Routed Kolmogorov-Arnold Fuzzy Networks with structural interpretability and stability analysis.
+
+`KAFN` `Neuro-Fuzzy` `Interpretability`
+
+<a href="https://github.com/fims9000/deep-neuro-fuzzy"><b>Code ↗</b></a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### KAN-XAI 2.0
+
+Hybrid and hierarchical explainable architectures based on Kolmogorov-Arnold Networks, fuzzy components and interpretable decision mechanisms.
+
+`KAN` `Hybrid AI` `XAI`
+
+<a href="https://github.com/fims9000/KAN-XAI-2.0-System"><b>Code ↗</b></a>
+&nbsp;·&nbsp;
+<a href="https://doi.org/10.1007/978-3-032-13612-1_4"><b>Paper ↗</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ANZA-LIRA
+
+Scientific vision pipeline for segmentation and structural continuation of thin seismic faults using anisotropic geometry, topology and graph reasoning.
+
+`Computer Vision` `Topology` `Scientific ML`
+
+<a href="https://github.com/fims9000/anza_lira"><b>Code ↗</b></a>
+
+</td>
+
+</tr>
+</table>
+
+<details>
+
+<summary><b>More research systems</b></summary>
+
+<br>
+
+### BeaconXAI
+
+Budgeted counter-evidence auditing for black-box time-series models with adaptive evaluation budgets and edge-oriented analysis.
+
+<a href="https://github.com/fims9000/BeaconXAI">Code ↗</a>
+
+<br>
+
+### SynergiXAI
+
+Architecture for reproducible lifecycle management and evaluation of explainable AI models.
+
+`Reproducibility · AutoXAI · Model lifecycle`
+
+<br>
+
+### NeuroFuzzy Master
+
+Desktop research environment for ANFIS data analysis, model training and visualization.
+
+`ANFIS · Desktop ML · Research tooling`
+
+</details>
+
+---
+
+# Selected Publications
+
+<!-- PUBLICATIONS:START -->
+
+### 2026
+
+**Verified Explainability Core: A GD–ANFIS/SHAP Hybrid Architecture for XAI 2.0**  
+*Automatic Documentation and Mathematical Linguistics*, **59(S5)**, S469–S478.
+
+<br>
+
+**Hybrid and Hierarchical Explainable AI Based on Kolmogorov–Arnold Networks**  
+*Lecture Notes in Networks and Systems*, **Vol. 1763**, Springer, 36–43.  
+<a href="https://doi.org/10.1007/978-3-032-13612-1_4">DOI ↗</a>
+
+<br>
+
+**SynergiXAI Platform Architectural Model for Reproducible Lifecycle Management of Artificial Intelligence Models**  
+*Soft Measurements and Computing*, No. 3-2, 101–119.
+
+<br>
+
+**Algebraic Operations on Multilevel Explanations and Quantification of Their Uncertainty**  
+*Soft Measurements and Computing*, No. 2-2, 64–99.
+
+---
+
+### 2025
+
+**A Fuzzy Transformer for Multimodal AI: Differentiable Fuzzy Attention and Adaptive Explanations**  
+*Soft Measurements and Computing*, No. 11, 34–55.  
+<a href="https://doi.org/10.36871/2618-9976.2025.11.003">DOI ↗</a>
+
+<br>
+
+**HYBRID-XIRIS: Neuro-Fuzzy Architecture for Explainable Biometric Identification by Iris**  
+*Soft Measurements and Computing*, No. 12-2, 119–132.
+
+---
+
+### Accepted / Forthcoming
+
+**Routed Kolmogorov–Arnold Fuzzy Networks for Stable Interpretable Prediction**  
+IITI'26 · Springer Proceedings
+
+**Concept-Latent Space Alignment in Fuzzy Attention Networks for Safety-Critical Intelligent Decision Support**  
+IITI'26 · Springer Proceedings
+
+<!-- PUBLICATIONS:END -->
 
 <div align="center">
 
-<br/>
+### Complete research record
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lebedeffson&theme=radical" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lebedeffson&theme=radical" alt="Most Commit Language" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lebedeffson&theme=radical&utcOffset=3" alt="Productive Time" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebedeffson&theme=radical" alt="GitHub Profile Summary" />
+<a href="https://orcid.org/0009-0001-1046-5982">ORCID</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=jkRWQbgAAAAJ">Google Scholar</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/Alexander-Lebedev-20">ResearchGate</a>
 
 </div>
 
-### Machine Learning & Data Science
+---
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+# Agentic Research Engineering
 
-### Deep Learning
+AI coding agents are a **primary implementation interface** in my development workflow.
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+I focus on the parts that determine whether the resulting system is actually useful scientifically: problem formulation, architecture, constraints, experimental design, evaluation and acceptance.
 
-### Explainable AI
+```mermaid
+flowchart LR
 
-![SHAP](https://img.shields.io/badge/-SHAP-FF6B6B?style=for-the-badge)
-![LIME](https://img.shields.io/badge/-LIME-4ECDC4?style=for-the-badge)
-![Captum](https://img.shields.io/badge/-Captum-EE4C2C?style=for-the-badge)
-![DALEX](https://img.shields.io/badge/-DALEX-45B7D1?style=for-the-badge)
-![Alibi](https://img.shields.io/badge/-Alibi-96CEB4?style=for-the-badge)
-![InterpretML](https://img.shields.io/badge/-InterpretML-FF7F50?style=for-the-badge)
+    Q["Research<br/>Question"]
+    S["Specification<br/>& Constraints"]
+    O["Agent<br/>Orchestration"]
 
-### Fuzzy Logic & Neuro-Fuzzy Systems
+    C["Implementation"]
+    E["Experiments"]
 
-![ANFIS](https://img.shields.io/badge/-ANFIS-9B59B6?style=for-the-badge)
-![xanfis](https://img.shields.io/badge/-xanfis-8E44AD?style=for-the-badge)
-![scikit-fuzzy](https://img.shields.io/badge/-scikit--fuzzy-6C5CE7?style=for-the-badge)
+    T["Tests"]
+    M["Metrics &<br/>Evidence"]
 
-### Visualization & Research Tools
+    H["Human<br/>Review"]
+    R["Research<br/>Artifact"]
 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+    Q --> S
+    S --> O
 
-### Development Tools
+    O --> C
+    O --> E
 
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Avalonia](https://img.shields.io/badge/-Avalonia-B445E5?style=for-the-badge)
+    C --> T
+    E --> M
+
+    T --> H
+    M --> H
+
+    H -->|"accept"| R
+    H -->|"refine"| S
+```
+
+### The control loop
+
+```text
+define the problem
+      ↓
+design the system
+      ↓
+specify constraints
+      ↓
+direct coding / research agents
+      ↓
+run experiments
+      ↓
+inspect failures and evidence
+      ↓
+validate claims
+      ↓
+iterate
+```
+
+> **Agents accelerate implementation. Evidence decides whether the result survives.**
+
+---
+
+# Research Toolkit
+
+<div align="center">
+
+### Core engineering
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,postgres,docker,git,github,linux,bash,dotnet,vscode&perline=13" />
+</a>
 
 </div>
 
-## Education
+<br>
 
-**Dubna University**  
-Bachelor's Degree in **Computer Science and Engineering**  
-2024–2028
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### Building transparent, interpretable, and trustworthy AI systems.
+### ML / Scientific Computing
 
+`PyTorch`  
+`TensorFlow`  
+`scikit-learn`  
+`XGBoost`  
+`LightGBM`  
+`CatBoost`  
+`NumPy`  
+`Pandas`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Explainability
+
+`SHAP`  
+`LIME`  
+`Captum`  
+`DALEX`  
+`Alibi`  
+`InterpretML`  
+`Concept-based XAI`  
+`Explanation evaluation`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Neuro-Fuzzy
+
+`ANFIS`  
+`xanfis`  
+`scikit-fuzzy`  
+`Fuzzy Attention`  
+`KAFN`  
+`KAN`  
+`Fuzzy rules`  
+`Hybrid models`
+
+</td>
+</tr>
+</table>
+
+---
+
+# Evaluation Mindset
+
+My work is strongly oriented toward **claim–evidence alignment**.
+
+```text
+             MODEL QUALITY
+                   │
+        ┌──────────┼──────────┐
+        │          │          │
+        ▼          ▼          ▼
+    Accuracy   Robustness   Explanation
+                               Quality
+        │          │          │
+        └──────────┼──────────┘
+                   ▼
+              VALIDATION
+                   │
+     ┌─────────────┼─────────────┐
+     ▼             ▼             ▼
+  Baselines     Ablations    Reproducibility
+     │             │             │
+     └─────────────┴─────────────┘
+                   │
+                   ▼
+                CLAIMS
+```
+
+I am particularly interested in:
+
+`faithfulness` · `stability` · `robustness` · `uncertainty` · `calibration` · `data leakage` · `external validity` · `reproducibility`
+
+---
+
+# GitHub Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=ffffff&color=24292f&line=0969da&point=8250df&area=true&hide_border=true">
+  <img
+    alt="GitHub activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lebedeffson&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true">
+</picture>
+
+---
+
+# Research & Academic Profile
+
+<table>
+<tr>
+<td>
+
+**ML Specialist / Developer**  
+Artificial Intelligence Laboratory  
+Dubna State University
+
+</td>
+<td>
+
+**Computer Science and Engineering**  
+B.Sc. · 2024–2028  
+Dubna State University
+
+</td>
+<td>
+
+**ACM Certified Reviewer**  
+2026
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### BUILD · TEST · EXPLAIN · VERIFY
+
+**Building AI systems whose decisions can be examined, tested and challenged.**
 </div>
